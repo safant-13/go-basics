@@ -17,7 +17,7 @@ import (
 
 const (
 	// Choose a suitable Gemini model for text generation
-	TEXT_MODEL = "gemini-pro"
+	TEXT_MODEL = "gemini-pro-latest"
 	// Choose an Imagen model for image generation
 	// Note: Imagen models often require Vertex AI specific endpoints/configurations.
 	// If you face issues with this, we might need to adjust or use a different model.
